@@ -29,3 +29,4 @@
 <br>
 <br>
 <br>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajapatiHardik2008&theme=halloween&area=true&hide_border=true)
