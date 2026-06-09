@@ -27,6 +27,11 @@
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajapatihardik2008&show_icons=true&theme=radical" alt="prajapatihardik2008" /></p>
 ### 📊 GitHub Language Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajapatiHardik2008&layout=compact&theme=radical&langs_count=8" />
-</div>
+### 📊 Languages I Use
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+</p>
