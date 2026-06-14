@@ -14,7 +14,20 @@
   <img src="https://github.com/prajapatiHardik2008/prajapatiHardik2008/blob/main/assets/pf.jpeg" alt="Hardik Profile" width="600"/>
   <br><br>
 </div>
-
+<table>
+        <tr>
+            <th>Header 1</th>
+            <th>Header 2</th>
+            <th>Header 3</th>
+            <th>Header 4</th>
+            <th>Header 5</th>
+            <th>Header 6</th>
+            <th>Header 7</th>
+            <th>Header 8</th>
+            <th>Header 9</th>
+            <th>Header 10</th>
+        </tr>
+    </table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hardik prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik prajapati" height="30" width="40" /></a>
