@@ -47,8 +47,12 @@
   
   
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajapatihardik2008&show_icons=true&theme=radical" alt="prajapatihardik2008" /></p>
+
 <br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajapatihardik2008&show_icons=true&theme=radical" alt="GitHub Streak" />
+</div>
+
 <br>
 <br><p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajapatiHardik2008&theme=halloween&area=true&hide_border=true&custom_title=My%20Coding%20Activity&line=00ff00&point=ff0000" width="800" height="200" />
