@@ -47,6 +47,12 @@
   
   
 </div>
+<br>
+### My GitHub Stats
+![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajapatiHardik2008&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajapatiHardik2008&layout=compact&theme=radical)
 
 <br>
 <div align="center">
