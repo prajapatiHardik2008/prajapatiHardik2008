@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm H - 24</h1>
+<h1 align="center">Hi 👋, I'm Hardik </h1>
 <h3 align="center">A cyber warrior</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajapatihardik2008&label=Profile%20views&color=0e75b6&style=flat" alt="prajapatihardik2008" /> </p>
@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I once accidentally locked myself out of my own workstation using my own HackerX-Guard script. It took me 10 minutes to convince my own computer that I am indeed the owner. Moral of the story: Never underestimate the security system you build while sleepy at 3 AM.**
 <div align="center">
-  <img src="https://github.com/prajapatiHardik2008/prajapatiHardik2008/blob/main/assets/pf.jpeg" alt="Hardik Profile" width="600"/>
   <br><br>
 </div>
 
