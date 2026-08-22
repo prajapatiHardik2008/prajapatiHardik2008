@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hardik </h1>
-<h3 align="center">A cyber warrior</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=800&size=24&duration=4000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Hardik+%F0%9F%91%8B;Python+Developer+%7C+Cyber+Security+Enthusiast;Building+%7C+Learning+%7C+Breaking+%7C+Fixing;python3+-m+build_future;while+(learning)%3A+keep_coding()" alt="Live Typing Intro" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajapatihardik2008&label=Profile%20views&color=0e75b6&style=flat" alt="prajapatihardik2008" /> </p>
 
