@@ -5,14 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajapatihardik2008&label=Profile%20views&color=0e75b6&style=flat" alt="prajapatihardik2008" /> </p>
 
-- 👯 I’m looking to collaborate on [h-24](https://github.com/prajapatiHardik2008/h-24.git)
-
-- 👨‍💻 All of my projects are available at [https://h-24-gn7z.onrender.com/](https://h-24-gn7z.onrender.com/)
-
-- 📫 How to reach me **hardikprajapati242008@gmail.com**
-
-- ⚡ Fun fact **I once accidentally locked myself out of my own workstation using my own HackerX-Guard script. It took me 10 minutes to convince my own computer that I am indeed the owner. Moral of the story: Never underestimate the security system you build while sleepy at 3 AM.**
-<div align="center">
   <br><br>
 </div>
 
